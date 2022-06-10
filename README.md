@@ -11,5 +11,7 @@ III. Solusi yang kami buat dari problem yang telah dijelaskan adalah membuat pin
 IV. Untuk pintu otomatis, ketika perintah suara "buka" pertama kali diucapkan, data akan bernilai 49. Apabila kondisi ini terpenuhi, maka akan menyebabkan servo bergerak ke posisi 0 derajat. Sedangkan apabila kata "tutup" diucapkan, maka data bernilai 50 dan apabila kondisi tersebut terpenuhi maka servo akan bergerak ke posisi 90 derajat. Sedangkan untuk lampu otomatis, lampu akan menyala apabila indeks cahaya pada data bernilai kurang dari 4500 dan apabila kondisi tersebut tidak dipenuhi (nilainya lebih dari 4500 maka lampu akan padam).
 
 V. Referensi :
+
 - https://youtu.be/A3QRyixnEl8
-- 
+
+- Lagan, M. D., & Ary, M. (2021, Juni). Sistem Kendali Kunci Pintu Menggunakan Voice Command Berbasis Internet Of Things. eProsiding Teknik Informatika (PROTEKTIF), 2(1), 1-12.
