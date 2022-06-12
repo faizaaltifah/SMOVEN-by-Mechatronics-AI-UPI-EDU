@@ -2,7 +2,8 @@
 Repository ini adalah dokumentasi pengerjaan projek UAS mata kuliah sensor dan tranduser.
 This repository is the documentation for the final exam project for sensor and transducer course.
 
-I. SMOVEN (Smart Door with Voice Command and Automatic Light Sensor)
+# I. Judul Project
+> SMOVEN (Smart Door with Voice Command and Automatic Light Sensor)
 
 II. Kami hidup berdampingan dengan teman - teman penyandang disabilitas. Namun, sangat disayangkan apabila melihat sarana prasarana di tempat umum tidak ramah penyandang disabilitas. Salah satunya adalah pintu, pintu merupakan salah satu bagian terpenting dari suatu bangunan. Beberapa pintu yang ditemui di tempat umum hanya sedikit yang ramah disabiiitas. Melihat masalah yang ada, kami membuat demonstrasi alat sederhana yang bertujuan untuk memudahkan penyandang disabilitas masuk dan keluar suatu ruangan dengan bantuan sensor motor servo. Kami juga menginisiasi dalam pembuatan lampu otomatis yang nyalanya dapat menyesuaikan dengan kondisi penerangan untuk meminimalisir tindak kejahatan sehingga apabila dalam kondisi pagi dan siang, lampu akan mati. Sedangkan dalam kondisi malam, lampu akan menyala.
 
