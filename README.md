@@ -12,7 +12,7 @@ Kami hidup berdampingan dengan teman - teman penyandang disabilitas. Namun, sang
 Solusi yang kami buat dari problem yang telah dijelaskan adalah membuat pintu otomatis dengan motor servo dan lampu otomatis dengan sensor cahaya APDS 9960. 
 
 # IV. Analisis dan Diskusi Project
-  Hasil yang didapatkan dari projek ini mengindikasikan korelasi pada sensor yang digunakan yaitu motor servo dan sensor APDS-9960. Dimana motor servo yang terhubung dengan aplikasi SparkFun akan menjalankan perintah sesuai dengan kode program yang dijalankan. Sensor cahaya yang digunakan juga akan bekerja sesuai dengan kode program yaitu apabila indeks cahaya berada pada data kurang dari 4500 maka lampu akan menyala.
+  Hasil yang didapatkan dari projek ini mengindikasikan korelasi pada sensor yang digunakan yaitu motor servo dan sensor APDS-9960. Dimana motor servo yang terhubung dengan aplikasi SparkFun akan menjalankan perintah sesuai dengan kode program yang dijalankan. Sensor cahaya yang digunakan juga akan bekerja sesuai dengan kode program yaitu apabila indeks cahaya berada pada data kurang dari 4500 maka lampu akan menyala. Hal ini sesuai dengan fungsi motor servo yaitu yang umum digunakan untuk menggerakkan robot. Namun, projek ini memiliki kekurangan yaitu pada bagian pintu otomatis adalah perangkat _smartphone_ yang tidak dapat diakses 
 
 # V. Referensi :
 
