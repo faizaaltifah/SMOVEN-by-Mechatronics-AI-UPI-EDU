@@ -14,6 +14,8 @@ Solusi yang kami buat dari problem yang telah dijelaskan adalah membuat pintu ot
 # IV. Analisis dan Diskusi Project
   Hasil yang didapatkan dari projek ini mengindikasikan korelasi pada sensor yang digunakan yaitu motor servo dan sensor APDS-9960. Dimana motor servo yang terhubung dengan aplikasi SparkFun akan menjalankan perintah sesuai dengan kode program yang dijalankan. Sensor cahaya yang digunakan juga akan bekerja sesuai dengan kode program yaitu apabila indeks cahaya berada pada data kurang dari 4500 maka lampu akan menyala. Hal ini sesuai dengan fungsi motor servo yaitu yang umum digunakan untuk menggerakkan robot. Namun, projek ini memiliki kekurangan yaitu pada bagian pintu otomatis adalah perangkat _smartphone_ yang tidak dapat diakses berjauhan dengan sensor karena menggunakan bluetooth yang tidak memungkinkan untuk pengoperasian jarak jauh. Kemudian pada lampu otomatis, alat dan sensor tidak dapat diakses lewat perangkat untuk memastikan apakah lampu menyala atau tidak.
 
+  New changes
+
 # V. Referensi :
 
 - https://youtu.be/A3QRyixnEl8
